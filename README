@@ -1,16 +1,16 @@
-git clone https://github.com/bitweb-project/bitweb_yespower_python3
+git clone https://github.com/bitweb-project/bitweb_yescryptr16_python3
 
-cd bitweb_yespower_python3
+cd bitweb_yescryptr16_python3
 
 sudo python3 setup.py install
 
-import bitweb_yespower
+import bitweb_yescryptr16
 
 or 
 
-https://pypi.org/project/bitweb-yespower/#files
+https://pypi.org/project/bitweb-yescryptr16/#files
 
-python3.7 -m pip install bitweb-yespower
+python3.7 -m pip install bitweb-yescryptr16
 
 How to compile at windows ?
 
